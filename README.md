@@ -1,6 +1,6 @@
 # Enumerate-Angular
 
-Simple little angular directive that shows a nice number on the screen.
+Simple little angular directive that shows a nice number on the screen using mostly CSS.
 
 ![enumerate](demo.png)
 
